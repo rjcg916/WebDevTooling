@@ -1,3 +1,5 @@
+- npm start
+
 # Starter
 - install node.js/npm
 - npm install -g create-react-app
@@ -8,6 +10,7 @@
 - run npm start, see program in browser
 - Install the sublime-babel-vscode extension and follow the instructions.
 - install react dev tool extensions
+
 
 if you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game which are listed in order of increasing difficulty:
 

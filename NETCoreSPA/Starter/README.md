@@ -1,1 +1,4 @@
 - generate project/solution from Visual Studio
+- run npm install
+- use IISExpress to run app or
+- dotnet run 
