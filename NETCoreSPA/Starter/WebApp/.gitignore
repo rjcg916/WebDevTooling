@@ -62,3 +62,6 @@ typings/
 
 # Solution User Options
 *.suo
+
+# Visual Studio 2015
+.vs/
