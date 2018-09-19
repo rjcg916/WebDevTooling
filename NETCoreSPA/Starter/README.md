@@ -1,4 +1,5 @@
-- generate project/solution from Visual Studio
-- run npm install
-- use IISExpress to run app or
-- dotnet run 
+# Starter
+- Created using Visual Studio React/.NET Core Template
+- Running: npm install + dotnet run
+
+
