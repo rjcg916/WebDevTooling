@@ -1,4 +1,3 @@
-
 //functions
 function tick() { //main loop
     console.time("loop");
