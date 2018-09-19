@@ -6,9 +6,9 @@ Web Development Tooling Environment
 - React
 
 ## Setup
-- Visual Studio Code
-- Git/GitHub
-- NPM
+- * Visual Studio Code
+- * Git/GitHub
+- * Node, NPM, NPM VM (bower, nuget)
 
 ## Review the Projects
 
@@ -25,20 +25,35 @@ Web Development Tooling Environment
 
 ## Editing/Linting - Real Time Feedback
 - Editing
+* editorconfig
     - add editorconfig in React, TypeScript
-- Linting
+* Linting
 - Visual Studio Code
+visual studio
+linting
+## Webserver
+development web server
 
 ## Debugging
-
-## Production Build
-
-## Test Automation
+* chrome debugger
+* visual studio
+-- debugging with map file
 
 ## Customizing
+automation - scripting, gulp, etc.
+- gulp
+- npm automation
+
+## Production Build
+babel - transpiling
+webpack - bundling
+
+## Test Automation
+http / mocking
+
 
 ## Integration with Back End
 - NETCoreSPA
 
-## Use of Containers
-
+## Containerization
+Docker
