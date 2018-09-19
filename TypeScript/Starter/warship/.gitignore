@@ -1,5 +1,7 @@
 # JS
 *.js
+# Map
+*.Map
 
 # Logs
 logs
